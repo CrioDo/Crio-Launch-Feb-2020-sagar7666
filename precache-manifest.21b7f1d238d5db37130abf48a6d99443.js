@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9029a5b8cf1437c46f13cb3449281a6",
+    "revision": "486eb85717211643ba32c3e1c6031248",
     "url": "/Crio-Launch-Feb-2020-sagar7666/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-sagar7666/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "a5d6e296fa76d675d928",
+    "revision": "5463079520bea4a252be",
     "url": "/Crio-Launch-Feb-2020-sagar7666/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-sagar7666/static/js/2.396ef003.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5d6e296fa76d675d928",
-    "url": "/Crio-Launch-Feb-2020-sagar7666/static/js/main.8309c165.chunk.js"
+    "revision": "5463079520bea4a252be",
+    "url": "/Crio-Launch-Feb-2020-sagar7666/static/js/main.211e981d.chunk.js"
   },
   {
     "revision": "c0c1a7126f07da4329ef",
